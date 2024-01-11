@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandm12204913&label=Profile%20views&color=0e75b6&style=flat" alt="anandm12204913" /> </p>
 
-- 🌱 I’m currently learning **Core Java**
+- 🌱 I’m currently learning **Apps Devlopment**
 
-- 💬 Ask me about **Python, CPP**
+- 💬 Ask me about **Python, CPP, Java**
 
 - 📫 How to reach me **anadmandkikar@gmail.com**
 
